@@ -64,7 +64,7 @@ h1 {
   margin: 0 0 5px;
 }
 
-@media (mad-width: 500px) {
+@media (mad-width: 640px) {
   h1 {
     font-size: 45px;
   }
